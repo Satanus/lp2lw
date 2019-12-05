@@ -13,5 +13,6 @@ Import passwords from LastPass to Firefox Lockwise
   - Click browse or drag and drop your exported csv to the browse button
   - Click import
 
-entries with new lines in the notes and such may cause issues, it's up to you to clean your own file for this.
-this is a quick and dirty script!
+entries with new lines in the notes, blank passwords, secure notes and such may cause issues. it's up to you to clean your own file!
+
+this is a quick script I made to import my data. this can be tweaked for any csv file!
